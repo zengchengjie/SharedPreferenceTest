@@ -1,0 +1,3 @@
+# SharedPreferenceTest
+sharepreference的测试:
+最近很久没有更新github了，因为项目需要，我学着将sharepreference整合到一个工具类中，这样会更方便。
