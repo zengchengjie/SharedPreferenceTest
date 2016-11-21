@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/text_sp_B"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <Button
+        android:id="@+id/writeB"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="写入"/>
+    <Button
+        android:id="@+id/readB"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="读取"/>
+    <Button
+        android:id="@+id/startB"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="启动AActivity"/>
+</LinearLayout>
